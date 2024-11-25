@@ -2,7 +2,7 @@
     <br />
     <img src="./icons/stable/codium_cnl.svg" alt="VSCodium Logo" width="200"/>
     <h1><a href="https://vscodium.dev">VSCodium.dev</a></h1>
-    <h3>Free/Libre Open Source Software Binaries of [vscode.dev](https://vscode.dev)</h3>
+    <h3>Free/Libre Open Source Software Binaries of <a href="https://vscode.dev">vscode.dev</a></h3>
 </div>
 
 <div id="badges" align="center">
